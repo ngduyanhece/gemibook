@@ -273,3 +273,20 @@ After completing BookBot:
 **Ready to start your AI-assisted coding journey? Follow the setup guide and dive into the tutorial!** 🚀
 
 Happy coding with Gemini CLI! 🤖✨
+
+---
+
+## 🔗 About the Author
+
+This tutorial was created as part of exploring AI-assisted development workflows. I'm also building **[Cipher](https://github.com/campfirein/cipherThe)** - an agentic memory system that helps AI assistants remember and learn from past conversations.
+
+**🌟 If you found this tutorial helpful, please consider:**
+- ⭐ **Starring this repository** to help others discover it
+- ⭐ **Checking out [Cipher](https://github.com/campfirein/cipherThe)** and giving it a star if you're interested in agentic memory systems
+- 🤝 **Sharing your feedback** and suggestions for improving this tutorial
+
+Your support helps me continue creating educational content and building tools that make AI-assisted development more accessible and effective!
+
+---
+
+*Built with ❤️ using Gemini CLI*
